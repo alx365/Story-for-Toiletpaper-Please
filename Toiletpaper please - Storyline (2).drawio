@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T14:05:15.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="jUj76A0GHsvAbW3n_Clz" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T14:10:05.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="S3U2qS27FN-BT975eydt" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="3485" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="10413" dy="4973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,29 +130,15 @@
         <mxCell id="4MemGEek6DB2b53ONelM-1" value="The Store" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1500" y="40" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WwWyATiSNRp0P1ia7kzS-8" target="WwWyATiSNRp0P1ia7kzS-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="WwWyATiSNRp0P1ia7kzS-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1380" y="700" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WwWyATiSNRp0P1ia7kzS-8" target="WwWyATiSNRp0P1ia7kzS-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-8" value="When he sees you walking towards him, he runs away" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1600" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WwWyATiSNRp0P1ia7kzS-9" target="WwWyATiSNRp0P1ia7kzS-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-9" value="&lt;div&gt;You already regret it not asking him, if he could give you some of the toiletpaper&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1218" y="590" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WwWyATiSNRp0P1ia7kzS-17" target="WwWyATiSNRp0P1ia7kzS-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xJ5OwYgdjSTBkFPhT8F--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WwWyATiSNRp0P1ia7kzS-17" target="WwWyATiSNRp0P1ia7kzS-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-17" value="Don&#39;t ask him" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1218" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="xJ5OwYgdjSTBkFPhT8F--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="WwWyATiSNRp0P1ia7kzS-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1380" y="700" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-26" value="Go to the next supermarket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1305" y="780" width="120" height="60" as="geometry" />
@@ -161,13 +147,10 @@
           <mxGeometry x="-1145" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-30" value="&lt;div&gt;Leave him alone&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1755" y="690" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WwWyATiSNRp0P1ia7kzS-31" target="M6KW342iFe4JDzRaZPrO-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-1760" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-31" value="Run after him" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1585" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1600" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-1" target="M6KW342iFe4JDzRaZPrO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -515,14 +498,35 @@
         <mxCell id="M6KW342iFe4JDzRaZPrO-87" value="&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-590" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JG3rJxFggoxqtPLCYrr8-20" target="JG3rJxFggoxqtPLCYrr8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JG3rJxFggoxqtPLCYrr8-20" value="Mind your own business" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JG3rJxFggoxqtPLCYrr8-21" target="WwWyATiSNRp0P1ia7kzS-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JG3rJxFggoxqtPLCYrr8-21" target="WwWyATiSNRp0P1ia7kzS-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JG3rJxFggoxqtPLCYrr8-21" value="Question him" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4MemGEek6DB2b53ONelM-9" value="&lt;div&gt;You don&#39;t find any toilet paper but you can see a person with &lt;br&gt;&lt;/div&gt;&lt;div&gt;5 toilet paper bags stealing himself away&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1530" y="390" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JG3rJxFggoxqtPLCYrr8-24" target="JG3rJxFggoxqtPLCYrr8-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-24" value="&lt;div&gt;You already regret not asking him about the toiletpaper&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1440" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-26" value="Don&#39;t ask him." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1440" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-8" value="When he sees you walking towards him, he runs away" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1600" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
