@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T11:53:46.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="VKCVm571_u5Fr6S7Lbug" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:54:18.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="h1nr1GdoMsQYS9qUPYPj" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="3319" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="9448" dy="4150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
           <mxGeometry x="-1460" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4MemGEek6DB2b53ONelM-5" value="I go home, because I have a spontaneous need for my Toilet-Paper breakfast" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-900" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="7460" y="3560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4MemGEek6DB2b53ONelM-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4MemGEek6DB2b53ONelM-1" target="4MemGEek6DB2b53ONelM-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -199,7 +199,7 @@
           <mxGeometry x="-1470" y="240" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-1" value="&lt;div&gt;You lose, because you are not a millionare&lt;/div&gt;&lt;div&gt;and you can&#39;t afford eating the most valuable food in the world&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-900" y="230" width="120" height="120" as="geometry" />
+          <mxGeometry x="7460" y="3640" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WwWyATiSNRp0P1ia7kzS-4" target="WwWyATiSNRp0P1ia7kzS-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -213,10 +213,10 @@
         <mxCell id="WwWyATiSNRp0P1ia7kzS-5" value="mind your own busieness" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1180" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WwWyATiSNRp0P1ia7kzS-8" target="WwWyATiSNRp0P1ia7kzS-31">
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WwWyATiSNRp0P1ia7kzS-8" target="WwWyATiSNRp0P1ia7kzS-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WwWyATiSNRp0P1ia7kzS-8" target="WwWyATiSNRp0P1ia7kzS-30">
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WwWyATiSNRp0P1ia7kzS-8" target="WwWyATiSNRp0P1ia7kzS-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-8" value="When he sees you walking towards him, he runs away" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -279,10 +279,10 @@
         <mxCell id="WwWyATiSNRp0P1ia7kzS-27" value="Search the supermarket for toilet paper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-970" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-30" value="&lt;div&gt;Leave him alone&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-30" value="&lt;div&gt;Leave him alone&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1580" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-31" value="Run after him" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-31" value="Run after him" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1410" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
