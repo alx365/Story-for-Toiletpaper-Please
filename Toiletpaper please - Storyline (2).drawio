@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T14:27:17.249Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="fJbqZF8Z2W0feXLFo3gv" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T14:27:51.560Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="uCvxFCw7ZJOQmO8nKIjL" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
     <mxGraphModel dx="3602" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -583,7 +583,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-110" value="Do you want to go to the next supermarket?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1010" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1010" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-115" value="You walk to the next Store and look for toilet paper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-610" y="780" width="120" height="60" as="geometry" />
@@ -603,11 +603,17 @@
         <mxCell id="JG3rJxFggoxqtPLCYrr8-42" value="Take the Car" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1760" y="910" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vtCxseNAtprNJk4GBHrE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtCxseNAtprNJk4GBHrE-1" target="M6KW342iFe4JDzRaZPrO-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vtCxseNAtprNJk4GBHrE-1" value="I search the supermarket for toilet-paper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1300" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vtCxseNAtprNJk4GBHrE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtCxseNAtprNJk4GBHrE-2" target="M6KW342iFe4JDzRaZPrO-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vtCxseNAtprNJk4GBHrE-2" value="I go to the next super-market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1130" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1095" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
