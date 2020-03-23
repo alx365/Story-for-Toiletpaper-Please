@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T14:27:51.560Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="uCvxFCw7ZJOQmO8nKIjL" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T14:28:20.739Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="GJvr06nGc5XZW-jGt4p4" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="3602" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3252" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -570,8 +570,10 @@
         <mxCell id="M6KW342iFe4JDzRaZPrO-108" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-850" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-109" target="M6KW342iFe4JDzRaZPrO-117" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="M6KW342iFe4JDzRaZPrO-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-109" target="vtCxseNAtprNJk4GBHrE-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-640" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-109" value="No" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-850" y="820" width="120" height="60" as="geometry" />
@@ -587,9 +589,6 @@
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-115" value="You walk to the next Store and look for toilet paper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-610" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-117" value="You lose, you hesitated too long" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-1" value="You run after him and after a while he trips and dies because of the fall but now the Toilet-Paper is bloody" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1760" y="730" width="120" height="80" as="geometry" />
@@ -614,6 +613,9 @@
         </mxCell>
         <mxCell id="vtCxseNAtprNJk4GBHrE-2" value="I go to the next super-market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1095" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vtCxseNAtprNJk4GBHrE-7" value="You lose, you hesitated too long" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="890" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
