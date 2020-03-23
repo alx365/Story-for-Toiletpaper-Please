@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T14:36:06.370Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="yvHLfu4mNALU5Dh_Pf-M" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T14:37:32.057Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="t-0XfknbSu9GWfOP3W5M" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
     <mxGraphModel dx="3602" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -211,6 +211,19 @@
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-30" value="Take the bus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1495" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H2ID8uOZUHvBUZ8pQFyk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="M6KW342iFe4JDzRaZPrO-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1310" y="679.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1230" y="1380" />
+              <mxPoint x="-1230" y="1030" />
+              <mxPoint x="-1430" y="1030" />
+              <mxPoint x="-1430" y="730" />
+              <mxPoint x="-1320" y="730" />
+              <mxPoint x="-1320" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-38" value="&lt;div&gt;You go to get your car&lt;br&gt;&lt;/div&gt;&lt;div&gt;And spoiler alert:&lt;/div&gt;&lt;div&gt;The toilet paper is gone&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1355" y="1380" width="120" height="60" as="geometry" />
@@ -621,7 +634,7 @@
         <mxCell id="w2yHV6jO7LddsXgPNAkQ-3" value="You see a huge Hole" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="600" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vtCxseNAtprNJk4GBHrE-2" value="I go to the next super-market" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vtCxseNAtprNJk4GBHrE-2" value="I go to the next super-market in order to fund toilet paper" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1095" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JG3rJxFggoxqtPLCYrr8-62" value="&lt;div&gt;Sub-Segment&lt;/div&gt;&lt;div&gt;Connection&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
