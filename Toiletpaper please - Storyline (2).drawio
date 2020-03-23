@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T11:58:09.077Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="2IjlWoLM1r5phJPt1YW0" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:59:07.202Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="CDOPc6HXdHeFXRyF2xB3" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="2217" dy="127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2447" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,8 +128,8 @@
             <mxPoint x="60" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hGm-7pk2wTPDIRRF_HYG-6" value="You laugh at him" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-6" value="You laugh at him, but go, because you are not an a**hole" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="161" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hGm-7pk2wTPDIRRF_HYG-12" value="He sits there &lt;br&gt;forever waiting&lt;br&gt;(Bad Ending)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-160" y="290" width="120" height="60" as="geometry" />
