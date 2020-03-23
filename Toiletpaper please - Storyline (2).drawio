@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T11:46:53.829Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="EFcwSalLzyda9AF7D6dh" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:47:30.698Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="fLmcFod4P6tME3MHVMvZ" version="12.8.8" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="2101" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2928" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,6 +181,9 @@
             <mxPoint x="-1559.8823529411766" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.474;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4MemGEek6DB2b53ONelM-8" target="WwWyATiSNRp0P1ia7kzS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4MemGEek6DB2b53ONelM-8" value="They tell you there is no toilet paper anymore" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1620" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -233,6 +236,9 @@
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-20" value="You still go to the toilet-paper shelf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1620" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-23" value="&lt;div&gt;You don&#39;t&lt;/div&gt;&lt;div&gt;(Game Lost) &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1750" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
