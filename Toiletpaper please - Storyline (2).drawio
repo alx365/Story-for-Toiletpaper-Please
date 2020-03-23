@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T12:54:39.107Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="oxwbPSGR7_MWIrWZEJ8K" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T12:55:27.478Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="Fvx0n0op_8gIEO_Kzn-S" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
     <mxGraphModel dx="2941" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
         <mxCell id="WwWyATiSNRp0P1ia7kzS-26" value="Go to the next supermarket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1130" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-27" value="Search the supermarket for toilet paper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-27" value="Search the supermarket for some other toilet paper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-970" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-30" value="&lt;div&gt;Leave him alone&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
