@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T11:59:07.202Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="CDOPc6HXdHeFXRyF2xB3" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:59:42.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="YNYPQrh7vjHp0FIaFCEA" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="2447" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2331" dy="193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
         <mxCell id="hGm-7pk2wTPDIRRF_HYG-12" value="He sits there &lt;br&gt;forever waiting&lt;br&gt;(Bad Ending)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-160" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hGm-7pk2wTPDIRRF_HYG-14" value="&lt;div&gt;he starts calling you furiosly&lt;/div&gt;&lt;div&gt;and wants you to buy &lt;br&gt;&lt;/div&gt;&lt;div&gt;the f***** toilet paper&lt;br&gt; &lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-14" value="He starts calling you furiously and you decide to go get the Toilet-Paper" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OO5MdOur09zsrJe4_zCE-1" value="Sub-Segments" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
