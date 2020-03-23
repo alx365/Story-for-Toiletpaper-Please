@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T11:35:20.026Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="MhuUKHnGqa8tSZg1wuv4" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:36:36.186Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="5M5HbqYtc8P3XWZykKsV" version="12.8.8" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
     <mxGraphModel dx="1479" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -182,19 +182,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4MemGEek6DB2b53ONelM-8" value="They tell you there is no toilet paper anymore" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-760" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-760" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4MemGEek6DB2b53ONelM-9" target="WwWyATiSNRp0P1ia7kzS-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-560" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4MemGEek6DB2b53ONelM-9" target="WwWyATiSNRp0P1ia7kzS-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4MemGEek6DB2b53ONelM-9" value="&lt;div&gt;You don&#39;t find any toilet paper but you can see a person with &lt;br&gt;&lt;/div&gt;&lt;div&gt;5 toilet paper bags stealing himself away&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-610" y="230" width="140" height="80" as="geometry" />
+          <mxGeometry x="-610" y="210" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-1" value="&lt;div&gt;You lose, because you are not a millionare&lt;/div&gt;&lt;div&gt;and you can&#39;t afford eating the most valuable food in the world&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="220" width="120" height="120" as="geometry" />
+          <mxGeometry x="-440" y="200" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-4" value="Ask him out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-5" value="mind your own busieness" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-530" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-8" value="When he sees you walking towards him, he runs away" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-9" value="You already" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
