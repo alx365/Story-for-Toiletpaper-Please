@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T11:32:13.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="f6KdyWzI7yRqCMSSMDlI" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:33:13.383Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="AdDL7w2V-Ts1_EzliSNs" version="12.8.8" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="1640" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,41 +151,44 @@
         <mxCell id="qTc8x9LIwxy68OP4qptk-10" value="Explosion after&lt;br&gt;the Supermarket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4MemGEek6DB2b53ONelM-1" value="Story Sub" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="4MemGEek6DB2b53ONelM-1" value="Story Sub" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-640" y="10" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4MemGEek6DB2b53ONelM-2" value="I ask the people in the store where the toilet paper is?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4MemGEek6DB2b53ONelM-2" value="I ask the people in the store where the toilet paper is?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-760" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4MemGEek6DB2b53ONelM-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4MemGEek6DB2b53ONelM-1" target="4MemGEek6DB2b53ONelM-2">
+        <mxCell id="4MemGEek6DB2b53ONelM-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4MemGEek6DB2b53ONelM-1" target="4MemGEek6DB2b53ONelM-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-600" y="140" as="sourcePoint" />
             <mxPoint x="-550" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MemGEek6DB2b53ONelM-4" value="I head to the toilet-paper shelf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4MemGEek6DB2b53ONelM-4" value="I head to the toilet-paper shelf" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-600" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4MemGEek6DB2b53ONelM-5" value="i go home, because i have a spontanios need for my toilet paper breakfast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4MemGEek6DB2b53ONelM-5" value="i go home, because i have a spontanios need for my toilet paper breakfast" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4MemGEek6DB2b53ONelM-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4MemGEek6DB2b53ONelM-1" target="4MemGEek6DB2b53ONelM-4">
+        <mxCell id="4MemGEek6DB2b53ONelM-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4MemGEek6DB2b53ONelM-1" target="4MemGEek6DB2b53ONelM-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-530" y="100" as="sourcePoint" />
             <mxPoint x="-630" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MemGEek6DB2b53ONelM-7" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4MemGEek6DB2b53ONelM-1" target="4MemGEek6DB2b53ONelM-5">
+        <mxCell id="4MemGEek6DB2b53ONelM-7" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4MemGEek6DB2b53ONelM-1" target="4MemGEek6DB2b53ONelM-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-530" y="100" as="sourcePoint" />
             <mxPoint x="-500" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MemGEek6DB2b53ONelM-8" value="They tell you there is no toilet paper anymore" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4MemGEek6DB2b53ONelM-8" value="They tell you there is no toilet paper anymore" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-760" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4MemGEek6DB2b53ONelM-9" value="&lt;div&gt;You don&#39;t find any toilet paper but you can see a person with &lt;br&gt;&lt;/div&gt;&lt;div&gt;5 toilet paper bags stealing himself away&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4MemGEek6DB2b53ONelM-9" value="&lt;div&gt;You don&#39;t find any toilet paper but you can see a person with &lt;br&gt;&lt;/div&gt;&lt;div&gt;5 toilet paper bags stealing himself away&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-610" y="230" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-1" value="You lose, because you are not " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="220" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
