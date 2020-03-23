@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T13:05:13.837Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="3iWHeNrRGMwbi__JquiV" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T13:05:42.049Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="FnjmfIuloek3HEOtsJLe" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="2457" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2552" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +130,7 @@
         <mxCell id="4MemGEek6DB2b53ONelM-1" value="The Store" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1500" y="40" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4MemGEek6DB2b53ONelM-2" value="I ask the people in the store where the toilet paper is?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4MemGEek6DB2b53ONelM-2" value="I ask the cashier in the store where the toilet paper is?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1620" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4MemGEek6DB2b53ONelM-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4MemGEek6DB2b53ONelM-1" target="4MemGEek6DB2b53ONelM-2" edge="1">
