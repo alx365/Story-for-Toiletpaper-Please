@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T14:33:10.163Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="166CYgC1QUW_KWcQI1XV" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T14:34:21.982Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="GWuBvlBgvHnWgmg6I4kF" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="3252" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3422" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,6 +198,11 @@
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-29" value="Walk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1075" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H2ID8uOZUHvBUZ8pQFyk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M6KW342iFe4JDzRaZPrO-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1520" y="1310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-30" value="Take the bus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1495" y="1280" width="120" height="60" as="geometry" />
