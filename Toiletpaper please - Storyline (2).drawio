@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T14:15:52.433Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="fEjlf4ZAGZJ9-_AA98Sg" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T14:16:36.165Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="skE_pNHkbLwhO895eHIY" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
     <mxGraphModel dx="3040" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -629,7 +629,7 @@
         <mxCell id="M6KW342iFe4JDzRaZPrO-110" value="Do you want to go to the next supermarket?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1010" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-115" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M6KW342iFe4JDzRaZPrO-115" value="You walk to the next Store and look for toilet paper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-610" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-117" value="You lose, you hesitated too long" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
