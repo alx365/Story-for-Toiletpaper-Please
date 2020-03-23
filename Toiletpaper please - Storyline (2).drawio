@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T14:17:11.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="s7c6soY2-6e_DytZLd7K" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T14:18:25.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="E7ijQhSotxEGZNwYUlEW" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="2870" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3452" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,37 +144,17 @@
         <mxCell id="M6KW342iFe4JDzRaZPrO-49" value="That&#39;s probably all of the toilet-paper there is in the supermarket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1400" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-1" value="You run after him and after a while he trips and dies because of the fall but now the Toilet-Paper is bloody" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1760" y="730" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-5" target="M6KW342iFe4JDzRaZPrO-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-5" target="M6KW342iFe4JDzRaZPrO-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1605" y="1070" />
-              <mxPoint x="-1605" y="1070" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-5" target="M6KW342iFe4JDzRaZPrO-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-5" value="Sure, toilet paper is toilet paper " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1840" y="910" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-10" target="M6KW342iFe4JDzRaZPrO-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-10" value="&lt;div&gt;Walk to your friends house&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1805" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2000" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-11" target="M6KW342iFe4JDzRaZPrO-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-11" value="Take the Bus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1675" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1840" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-12" target="M6KW342iFe4JDzRaZPrO-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -185,7 +165,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-12" value="Take the car" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1545" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1680" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-17" target="M6KW342iFe4JDzRaZPrO-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -527,6 +507,12 @@
         <mxCell id="M6KW342iFe4JDzRaZPrO-101" value="He doesn&#39;t believe you" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-850" y="2120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JG3rJxFggoxqtPLCYrr8-32" target="JG3rJxFggoxqtPLCYrr8-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JG3rJxFggoxqtPLCYrr8-32" target="JG3rJxFggoxqtPLCYrr8-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JG3rJxFggoxqtPLCYrr8-32" value="Run after him" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1760" y="650" width="120" height="60" as="geometry" />
         </mxCell>
@@ -594,6 +580,9 @@
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-117" value="You lose, you hesitated too long" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-1" value="You run after him and after a while he trips and dies because of the fall but now the Toilet-Paper is bloody" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1760" y="730" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
