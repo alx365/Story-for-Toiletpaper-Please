@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T11:50:49.482Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="OyWXD7vR8AFW0Dtu2eMT" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:51:11.399Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="K8b5E8isGx5YOWRyOtib" version="12.8.8" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
     <mxGraphModel dx="4359" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -241,7 +241,16 @@
           <mxGeometry x="-1043" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WwWyATiSNRp0P1ia7kzS-20" target="4MemGEek6DB2b53ONelM-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2586" y="460" />
+              <mxPoint x="-2460" y="460" />
+              <mxPoint x="-2460" y="480" />
+              <mxPoint x="-2650" y="480" />
+              <mxPoint x="-2650" y="220" />
+              <mxPoint x="-2496" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WwWyATiSNRp0P1ia7kzS-20" value="You still go to the toilet-paper shelf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1620" y="340" width="120" height="60" as="geometry" />
