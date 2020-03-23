@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T11:36:36.186Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="5M5HbqYtc8P3XWZykKsV" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:37:01.120Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="m-alLHh9lhGnz5DCZvrP" version="12.8.8" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
     <mxGraphModel dx="1479" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -207,7 +207,7 @@
         <mxCell id="WwWyATiSNRp0P1ia7kzS-8" value="When he sees you walking towards him, he runs away" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WwWyATiSNRp0P1ia7kzS-9" value="You already" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-9" value="You already regret it not asking him, if he could give you some" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-530" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
