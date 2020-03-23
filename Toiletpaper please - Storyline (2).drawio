@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T12:04:31.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="ij5RuRBXdnHGRKUQ1pwn" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T12:04:59.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="R9t-NdGE_T1DYhvyPaae" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="2721" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3262" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,13 +136,13 @@
         <mxCell id="OO5MdOur09zsrJe4_zCE-1" value="Sub-Segments" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="707" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OO5MdOur09zsrJe4_zCE-3" value="Go to the Store" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="OO5MdOur09zsrJe4_zCE-3" value="The Store" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-40" y="380" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qTc8x9LIwxy68OP4qptk-10" value="Explosion after&lt;br&gt;the Supermarket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4MemGEek6DB2b53ONelM-1" value="Story Sub" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="4MemGEek6DB2b53ONelM-1" value="The Store" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1500" y="40" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4MemGEek6DB2b53ONelM-2" value="I ask the people in the store where the toilet paper is?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
