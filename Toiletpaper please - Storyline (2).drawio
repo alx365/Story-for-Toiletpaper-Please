@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T11:26:57.579Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="dj6RgPxi1Jlr1Eloppmq" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:29:04.980Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="3FcwwIEky1TejmojTqES" version="12.8.8" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
     <mxGraphModel dx="1609" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -159,7 +159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GJakZgNFbfwVk1BUbExF-25" value="I ask the people in the store where the toilet paper is?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJakZgNFbfwVk1BUbExF-26" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OO5MdOur09zsrJe4_zCE-3" target="GJakZgNFbfwVk1BUbExF-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -168,10 +168,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GJakZgNFbfwVk1BUbExF-27" value="I head to the toilet-paper shelf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GJakZgNFbfwVk1BUbExF-28" value="i go home, because i have a need for my toilet paper breakfast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="GJakZgNFbfwVk1BUbExF-28" value="i go home, because i have a spontanios need for my toilet paper breakfast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJakZgNFbfwVk1BUbExF-29" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OO5MdOur09zsrJe4_zCE-3" target="GJakZgNFbfwVk1BUbExF-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -184,6 +184,12 @@
             <mxPoint x="70" y="460" as="sourcePoint" />
             <mxPoint x="100" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GJakZgNFbfwVk1BUbExF-31" value="They tell you there is no toilet paper anymore" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GJakZgNFbfwVk1BUbExF-32" value="You don&#39;t find any toilet paper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
