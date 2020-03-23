@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T12:23:49.783Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="AMj2xlnDODVO9H7w93Gt" version="12.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T12:25:27.199Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="1Aed8nLCjWU9uaq4_7B6" version="12.8.9" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
     <mxGraphModel dx="2782" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -341,8 +341,8 @@
         <mxCell id="M6KW342iFe4JDzRaZPrO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6KW342iFe4JDzRaZPrO-17" target="M6KW342iFe4JDzRaZPrO-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-17" value="&lt;div&gt;While walking to your friends house,&lt;/div&gt;&lt;div&gt;you get squashed to little pieces by a raging mob.&lt;/div&gt;&lt;div&gt;The lucky guy who got the toilet-paper from you also got killed, and the next guy also... Until the all of the world killed itself&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1630" y="1200" width="120" height="180" as="geometry" />
+        <mxCell id="M6KW342iFe4JDzRaZPrO-17" value="&lt;div&gt;While walking to your friends house,&lt;/div&gt;&lt;div&gt;you get squashed to little pieces by a raging mob.&lt;/div&gt;&lt;div&gt;The lucky guy who got the toilet-paper from you also got killed, and the next guy also... Until the whole world killed itself.&lt;/div&gt;&lt;div&gt; And all of that only because of toilet-paper&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="1200" width="130" height="200" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-18" value="happy end (you eliminated earth)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1630" y="1410" width="120" height="60" as="geometry" />
@@ -350,11 +350,11 @@
         <mxCell id="M6KW342iFe4JDzRaZPrO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="M6KW342iFe4JDzRaZPrO-22" target="M6KW342iFe4JDzRaZPrO-23" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-22" value="&lt;div&gt;While taking the bus to your friends house,&lt;/div&gt;&lt;div&gt;the bus gest squashed to little pieces by a raging mob.&lt;/div&gt;&lt;div&gt;The lucky guy who got the toilet-paper from you also got killed, and the next guy also... Until the all of the world killed itself&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="1200" width="120" height="190" as="geometry" />
+        <mxCell id="M6KW342iFe4JDzRaZPrO-22" value="&lt;div&gt;While taking the bus to your friends house,&lt;/div&gt;&lt;div&gt;the bus gest squashed to little pieces by a raging mob.&lt;br&gt;&lt;/div&gt;&lt;div&gt;The lucky guy who got the toilet-paper from you also got killed, and the next guy also... Until the whole world killed itself. And all of that only because of toilet-paper&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="1200" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-23" value="happy end (you eliminated earth)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="1410" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1485" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
