@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-24T13:56:03.529Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="koRcq8W6WTWAX8Eqwciy" version="12.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-24T14:07:33.977Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="VwXBXB5AIa0R2DQupCZH" version="12.9.1" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="3860" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4103" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -627,8 +627,11 @@
         <mxCell id="M6KW342iFe4JDzRaZPrO-25" value="&lt;div&gt;You didn&#39;t take your car here... Well shit.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1760" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1flgg78CPptK4cylIlYT-1" value="Continue on your quest" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="1flgg78CPptK4cylIlYT-1" value="Continue on your quest" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="800" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o8_npGUwf0DwFOOlhX8J-1" value="The Store" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="70" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
