@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-24T13:20:39.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="QRFxsbDdUc6qh1lRRbcn" version="12.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-24T13:21:19.308Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="JSpWa7DgGfH6AOjuxY5o" version="12.9.1" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="4073" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3422" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
         <mxCell id="M6KW342iFe4JDzRaZPrO-27" value="leave the toilet paper in the shelf and hope nobody takes it" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1680" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iEpxt3XxYWvXd2jWFCZr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6KW342iFe4JDzRaZPrO-28" target="M6KW342iFe4JDzRaZPrO-54">
+        <mxCell id="iEpxt3XxYWvXd2jWFCZr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-28" target="M6KW342iFe4JDzRaZPrO-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1460" y="1440" />
@@ -155,7 +155,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iEpxt3XxYWvXd2jWFCZr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6KW342iFe4JDzRaZPrO-28" target="M6KW342iFe4JDzRaZPrO-55">
+        <mxCell id="iEpxt3XxYWvXd2jWFCZr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-28" target="M6KW342iFe4JDzRaZPrO-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1460" y="1440" />
@@ -166,10 +166,18 @@
         <mxCell id="M6KW342iFe4JDzRaZPrO-28" value="Let the toilet paper at the cashier, while you get the car" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1520" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YhfotttLFI-4l39nSzbA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6KW342iFe4JDzRaZPrO-29" target="M6KW342iFe4JDzRaZPrO-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1300" y="1320" />
+              <mxPoint x="-2090" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-29" value="Walk" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="-1360" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ykuvmNVMor7jnegWPp5u-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-30" target="M6KW342iFe4JDzRaZPrO-17" edge="1">
+        <mxCell id="YhfotttLFI-4l39nSzbA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.85;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M6KW342iFe4JDzRaZPrO-30" target="M6KW342iFe4JDzRaZPrO-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-30" value="Take the bus" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -289,7 +297,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-75" value="hmm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1860" y="1970" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1860" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-76" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -364,13 +372,13 @@
           <mxGeometry x="-1520" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-81" value="&lt;div&gt;You tell your friend the story...&lt;/div&gt;&lt;div&gt;He doesn&#39;t want the toilet paper &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1835" y="2120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1990" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JG3rJxFggoxqtPLCYrr8-14" value="&lt;div&gt;Your Friend shoots you the next time he sees you&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Bad ending)&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;rounded=1;arcSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1680" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6KW342iFe4JDzRaZPrO-82" value="You lose" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1835" y="2210" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1980" y="2200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4MemGEek6DB2b53ONelM-8" value="They tell you there is no toilet paper anymore" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1600" y="230" width="120" height="60" as="geometry" />
