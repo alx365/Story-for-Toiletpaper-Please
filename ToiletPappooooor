@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T14:34:52.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="z8-PMMMXHk2anZSmhyWf" version="12.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-25T14:58:39.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="Hj4owjPE55Y1JF4y25ty" version="12.9.2" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="5724" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3785" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -750,11 +750,23 @@
         <mxCell id="q7f_xUBBGHG3aKGePssD-10904" value="Left" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="810" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="q7f_xUBBGHG3aKGePssD-10915" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7f_xUBBGHG3aKGePssD-10905" target="q7f_xUBBGHG3aKGePssD-10914">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q7f_xUBBGHG3aKGePssD-10905" value="Right" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="810" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q7f_xUBBGHG3aKGePssD-10908" value="&lt;div&gt;You get chopped up by a fan.&lt;/div&gt;&lt;div&gt;(Bad Ending)&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1000" y="910" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7f_xUBBGHG3aKGePssD-10910" value="&lt;div&gt;After a while you suddenly fall down about 20 meters until you&#39;re caught by a fuck ton of Toilet-Paper. You put a pack of 8 in your pocket but only now you can identify the shilouhettes of, what can only be security guards&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="910" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q7f_xUBBGHG3aKGePssD-10913" value="Satan Fight" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="60" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q7f_xUBBGHG3aKGePssD-10914" value="&lt;div&gt;Warehouse&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="1080" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
