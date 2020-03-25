@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T14:23:28.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="uG6CaUGgsK4fOO7dc3NH" version="12.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-25T14:27:19.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="ftGaVO_DD3rBaRUP1qx5" version="12.9.2" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
     <mxGraphModel dx="3785" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -734,6 +734,9 @@
         </mxCell>
         <mxCell id="q7f_xUBBGHG3aKGePssD-10896" value="&lt;div&gt;Sadly you&#39;re not a Dynamite-Expert so not only the wall explodes, but you too. At least now you have access to almost unlimited Toilet-Paper. Yay! I guess...&lt;/div&gt;&lt;div&gt;(Bad Ending)&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1280" y="470" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q7f_xUBBGHG3aKGePssD-10903" value="After 2 hours of pointlessly walking around you find the warehouse of a huge Toilet-Paper Company called Catonelle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="690" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
