@@ -1,1 +1,723 @@
-<mxfile host="www.draw.io" modified="2020-03-25T13:36:07.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36 Edg/80.0.361.69" etag="DvKB_HT3jQvsq_84VfKG" version="12.9.2" type="onedrive"><diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-25T14:08:44.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="f-89nVIi6jXiHjUcjQK3" version="12.9.2" type="github">
+  <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
+    <mxGraphModel dx="7149" dy="2371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OO5MdOur09zsrJe4_zCE-3" target="qTc8x9LIwxy68OP4qptk-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qTc8x9LIwxy68OP4qptk-4" target="w2yHV6jO7LddsXgPNAkQ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qTc8x9LIwxy68OP4qptk-4" target="w2yHV6jO7LddsXgPNAkQ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qTc8x9LIwxy68OP4qptk-4" value="Investigate the&lt;br&gt;Explosion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="530" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qTc8x9LIwxy68OP4qptk-5" value="Continue on your Quest" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="530" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w2yHV6jO7LddsXgPNAkQ-2" target="w2yHV6jO7LddsXgPNAkQ-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w2yHV6jO7LddsXgPNAkQ-2" target="w2yHV6jO7LddsXgPNAkQ-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-2" value="I&#39;m going to hell" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="710" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="w2yHV6jO7LddsXgPNAkQ-11" target="qTc8x9LIwxy68OP4qptk-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-11" value="Nope!" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="710" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-18" value="Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1407" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-19" value="Decisions" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="90" width="117" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-21" value="Outcomes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1407" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-33" value="You see Satan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="500" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-35" value="You help him" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="890" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBrLfUf2mAx1bt7SBABR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w2yHV6jO7LddsXgPNAkQ-36" target="JG3rJxFggoxqtPLCYrr8-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-36" value="You fight him" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="890" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-1" value="Story" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1407" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hGm-7pk2wTPDIRRF_HYG-2" target="hGm-7pk2wTPDIRRF_HYG-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="180" />
+              <mxPoint x="600" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hGm-7pk2wTPDIRRF_HYG-2" target="hGm-7pk2wTPDIRRF_HYG-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hGm-7pk2wTPDIRRF_HYG-2" target="hGm-7pk2wTPDIRRF_HYG-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="180" />
+              <mxPoint x="920" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-2" value="&lt;p style=&quot;line-height: 100%&quot;&gt;So, you&#39;re in the middle of a Toilet-Paper crisis because of unknown reasons. Maybe some God thinks Toilet-Paper is unnatural or something. Everybody is buying Toilet-Paper and now your friend calls you because he is currently sitting on the Toilet and ran out of Toilet-Paper: &quot;Toilet-Paper please!&quot;, he told you. Now he wants you to get him Toilet-Paper.&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" parent="1" vertex="1">
+          <mxGeometry x="610" y="10" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hGm-7pk2wTPDIRRF_HYG-4" target="hGm-7pk2wTPDIRRF_HYG-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-4" value="This can&#39;t be true.&lt;br&gt;I have no Friends!" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hGm-7pk2wTPDIRRF_HYG-5" target="OO5MdOur09zsrJe4_zCE-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-5" value="Maybe later.&lt;br&gt;He can wait." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hGm-7pk2wTPDIRRF_HYG-6" target="OO5MdOur09zsrJe4_zCE-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-6" value="I laugh at him for two minutes straight" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGm-7pk2wTPDIRRF_HYG-12" value="He shoots you the next time you see each other&lt;br&gt;(Bad Ending)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OO5MdOur09zsrJe4_zCE-1" value="Sub-Segments" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1407" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OO5MdOur09zsrJe4_zCE-3" target="qTc8x9LIwxy68OP4qptk-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OO5MdOur09zsrJe4_zCE-3" value="The Store" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="660" y="350" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qTc8x9LIwxy68OP4qptk-10" value="You hear a huge explosion&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="700" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4MemGEek6DB2b53ONelM-1" target="JG3rJxFggoxqtPLCYrr8-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4MemGEek6DB2b53ONelM-1" target="6DiMKuQ_fRoN0keim-UP-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4MemGEek6DB2b53ONelM-1" target="6DiMKuQ_fRoN0keim-UP-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MemGEek6DB2b53ONelM-1" value="The Store" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-1485" y="50" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-27" target="M6KW342iFe4JDzRaZPrO-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-27" value="Leave the toilet paper in the shelf and hope nobody takes it" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1360" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iEpxt3XxYWvXd2jWFCZr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-28" target="M6KW342iFe4JDzRaZPrO-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1460" y="1400" />
+              <mxPoint x="-1540" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iEpxt3XxYWvXd2jWFCZr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-28" target="M6KW342iFe4JDzRaZPrO-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1460" y="1400" />
+              <mxPoint x="-1380" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-28" value="Let the toilet paper at the cashier, while you get the car" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1520" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-29" target="M6KW342iFe4JDzRaZPrO-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-29" value="Take the bus" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="-1840" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-30" target="M6KW342iFe4JDzRaZPrO-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1620" y="1330" />
+              <mxPoint x="-2055" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-30" value="Walk" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1680" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-38" target="M6KW342iFe4JDzRaZPrO-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1200" y="1360" />
+              <mxPoint x="-1200" y="890" />
+              <mxPoint x="-1540" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-38" value="&lt;div&gt;You go to get your car&lt;br&gt;&lt;/div&gt;&lt;div&gt;And spoiler alert:&lt;/div&gt;&lt;div&gt;The toilet paper is gone&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1360" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6DiMKuQ_fRoN0keim-UP-1" target="4MemGEek6DB2b53ONelM-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1380" y="380" />
+              <mxPoint x="-1460" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DiMKuQ_fRoN0keim-UP-1" value="You head to the toilet-paper shelf" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1440" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6DiMKuQ_fRoN0keim-UP-3" target="JG3rJxFggoxqtPLCYrr8-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6DiMKuQ_fRoN0keim-UP-3" target="JG3rJxFggoxqtPLCYrr8-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6DiMKuQ_fRoN0keim-UP-3" value="You ask the people in the store where the toilet paper is?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1600" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-51" value="The cashier keeps the toilet paper, until you&#39;re back.&lt;br&gt;&lt;br&gt;Are you sure that you want to give the toilet paper to your friend? " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1520" y="1330" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-54" target="M6KW342iFe4JDzRaZPrO-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-54" target="M6KW342iFe4JDzRaZPrO-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-54" target="M6KW342iFe4JDzRaZPrO-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-54" target="M6KW342iFe4JDzRaZPrO-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-54" value="Yes, why are you asking?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1600" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-1" value="&lt;div&gt;You aren&#39;t a millionare&lt;/div&gt;&lt;div&gt;and you can&#39;t afford eating the most valuable food in the world so you commit suicide&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Bad Ending)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1300" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-5" target="JG3rJxFggoxqtPLCYrr8-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-5" value="You go home, because you have a spontaneous need for your Toilet-Paper breakfast" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1280" y="150" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-55" target="M6KW342iFe4JDzRaZPrO-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1380" y="1600" />
+              <mxPoint x="-1200" y="1600" />
+              <mxPoint x="-1200" y="890" />
+              <mxPoint x="-1540" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-55" value="No, not really" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1440" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-69" value="You go to your friends house. Knock on the door, and it opens. He stands there in underpants and first looks at the toilet paper, then back to you, then back to the toilet paper and says why is the toilet-paper full with blood?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1600" y="1570" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-76" target="cVR2qQ0IjA2eTlntJ5I4-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-76" value="Toilet-Paper is Toilet-Paper, god damn it!" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1520" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-77" target="M6KW342iFe4JDzRaZPrO-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1020" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1300" y="1870" />
+              <mxPoint x="-1200" y="1870" />
+              <mxPoint x="-1200" y="890" />
+              <mxPoint x="-1540" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-77" value="I don&#39;t know" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1360" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-8" target="JG3rJxFggoxqtPLCYrr8-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-79" target="38wWkIn2xL1nKSNl_TgS-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-79" value="I put some ketchup on it" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1680" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-8" value="You give up" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1680" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-80" target="38wWkIn2xL1nKSNl_TgS-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-80" value="I&#39;ll tell him the story" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;" parent="1" vertex="1">
+          <mxGeometry x="-1840" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-9" target="JG3rJxFggoxqtPLCYrr8-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-9" target="JG3rJxFggoxqtPLCYrr8-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-9" value="You still look" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1520" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-81" value="&lt;div&gt;You tell your friend the story...&lt;/div&gt;&lt;div&gt;He doesn&#39;t want the toilet paper &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1840" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-14" value="&lt;div&gt;Your friend shoots you the next time you see each other&lt;br&gt;(Bad Ending)&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;rounded=1;arcSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1680" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MemGEek6DB2b53ONelM-8" value="They tell you there is no toilet paper anymore" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1600" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-20" target="JG3rJxFggoxqtPLCYrr8-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-20" value="&lt;div&gt;Mind your own Business&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1440" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-21" target="JG3rJxFggoxqtPLCYrr8-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-21" target="JG3rJxFggoxqtPLCYrr8-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-21" value="Question him" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1600" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MemGEek6DB2b53ONelM-9" value="&lt;div&gt;You don&#39;t find any toilet paper but you can see a person with &lt;br&gt;&lt;/div&gt;&lt;div&gt;5 toilet paper bags stealing himself away&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1520" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-24" target="JG3rJxFggoxqtPLCYrr8-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-24" value="&lt;div&gt;You already regret not asking him about the toiletpaper&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1440" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-26" target="M6KW342iFe4JDzRaZPrO-109" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1380" y="780" />
+              <mxPoint x="-1540" y="780" />
+              <mxPoint x="-1540" y="940" />
+              <mxPoint x="-1460" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-26" target="M6KW342iFe4JDzRaZPrO-108" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1380" y="780" />
+              <mxPoint x="-1540" y="780" />
+              <mxPoint x="-1540" y="940" />
+              <mxPoint x="-1620" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-26" value="Don&#39;t ask him." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1440" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WwWyATiSNRp0P1ia7kzS-8" value="When he sees you walking towards him, he runs away" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1600" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-31" target="M6KW342iFe4JDzRaZPrO-108" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1540" y="940" />
+              <mxPoint x="-1620" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-31" target="M6KW342iFe4JDzRaZPrO-109" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1540" y="940" />
+              <mxPoint x="-1460" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-31" value="&lt;div&gt;Leave him alone&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1600" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-101" value="He doesn&#39;t believe you, thinks you are a killer and shoots you." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1680" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-32" target="JG3rJxFggoxqtPLCYrr8-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-32" target="JG3rJxFggoxqtPLCYrr8-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-32" value="Run after him" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1760" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-35" target="JG3rJxFggoxqtPLCYrr8-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1780" y="900" />
+              <mxPoint x="-1700" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-35" target="JG3rJxFggoxqtPLCYrr8-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1780" y="900" />
+              <mxPoint x="-1860" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-35" target="JG3rJxFggoxqtPLCYrr8-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1780" y="900" />
+              <mxPoint x="-2020" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-35" value="&lt;div&gt;I don&#39;t care, Toilet-Paper is Toilet-Paper&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1840" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-37" target="M6KW342iFe4JDzRaZPrO-109" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1540" y="860" />
+              <mxPoint x="-1540" y="940" />
+              <mxPoint x="-1460" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-37" target="M6KW342iFe4JDzRaZPrO-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-37" value="&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;He&#39;s probably not as psychopathic as I am so I should probably just &lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;leave him alone with the Toilet-Paper and store it alone in my basement &lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;and sleep besides it every night so I have better dreams and better &lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;thoughts about how I am going to murder my next Victim&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1680" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-110" value="Go to the next Supermarket to look for Toilet-Paper?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1600" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-1" value="You run after him and after a while he trips and dies because of the fall but now the Toilet-Paper is bloody" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1760" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-40" target="ykuvmNVMor7jnegWPp5u-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-40" value="Walk to your friends house" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2080" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-41" target="ykuvmNVMor7jnegWPp5u-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-41" value="Take the Bus" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1920" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iEpxt3XxYWvXd2jWFCZr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-42" target="M6KW342iFe4JDzRaZPrO-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1700" y="1200" />
+              <mxPoint x="-1780" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iEpxt3XxYWvXd2jWFCZr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-42" target="M6KW342iFe4JDzRaZPrO-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1700" y="1200" />
+              <mxPoint x="-1620" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iEpxt3XxYWvXd2jWFCZr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-42" target="M6KW342iFe4JDzRaZPrO-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1700" y="1200" />
+              <mxPoint x="-1300" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iEpxt3XxYWvXd2jWFCZr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-42" target="M6KW342iFe4JDzRaZPrO-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1700" y="1200" />
+              <mxPoint x="-1460" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-42" value="Take the Car" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1760" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-51" target="qTc8x9LIwxy68OP4qptk-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="1020" />
+              <mxPoint x="360" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-51" value="Satan Fight" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;rounded=1;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="400" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2yHV6jO7LddsXgPNAkQ-3" value="You see a huge Hole" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="600" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-62" value="&lt;div&gt;Sub-Segment&lt;/div&gt;&lt;div&gt;Connection&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1407" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vtCxseNAtprNJk4GBHrE-7" value="&lt;font style=&quot;font-size: 10px&quot;&gt;You are standing there like an idiot until suddenly you get squished by a huge chunk of concrete because an earthquake collapsed the entire building.&lt;br&gt;(Bad Ending)&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1540" y="1070" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JG3rJxFggoxqtPLCYrr8-63" value="You walk to the next Store" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-1680" y="1070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-1" value="He starts raging and you decide to go get the Toilet-Paper" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="700" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-109" target="vtCxseNAtprNJk4GBHrE-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-109" value="No" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1520" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="M6KW342iFe4JDzRaZPrO-108" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1619.857142857143" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-108" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1680" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ykuvmNVMor7jnegWPp5u-31" value="&lt;div&gt;You eliminated the Species of Homosapiens Sapiens&lt;/div&gt;&lt;div&gt;(Neutral Ending)&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-2020" y="1220" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-22" value="&lt;div&gt;While taking the bus to your friends house,&lt;/div&gt;&lt;div&gt;the bus gets squashed to little pieces by a raging mob.&lt;br&gt;&lt;/div&gt;&lt;div&gt;The lucky guy who got the toilet-paper from you also got killed, and the next guy also... Until the whole world killed itself. And all of that only because of toilet-paper&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1930" y="990" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-17" value="&lt;div&gt;While walking to your friends house,&lt;/div&gt;&lt;div&gt;you get squashed to little pieces by a raging mob.&lt;/div&gt;&lt;div&gt;The lucky guy who got the toilet-paper from you also got killed, and the next guy also... Until the whole Human Species killed itself.&lt;/div&gt;&lt;div&gt; And all of that because of Toilet-Paper&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-2090" y="990" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="M6KW342iFe4JDzRaZPrO-25" value="&lt;div&gt;You didn&#39;t take your car here... Well shit.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1760" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-16" value="&lt;div&gt;:(&lt;br&gt;&lt;br&gt;(Bad Ending)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1770" y="1910" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="38wWkIn2xL1nKSNl_TgS-37" target="38wWkIn2xL1nKSNl_TgS-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="38wWkIn2xL1nKSNl_TgS-37" target="38wWkIn2xL1nKSNl_TgS-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="38wWkIn2xL1nKSNl_TgS-37" target="38wWkIn2xL1nKSNl_TgS-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-37" value="Satan Fight" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-435" y="50" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="38wWkIn2xL1nKSNl_TgS-38" target="cVR2qQ0IjA2eTlntJ5I4-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="38wWkIn2xL1nKSNl_TgS-38" target="cVR2qQ0IjA2eTlntJ5I4-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-38" value="You throw a stone at him" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="38wWkIn2xL1nKSNl_TgS-41" target="38wWkIn2xL1nKSNl_TgS-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-570" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="38wWkIn2xL1nKSNl_TgS-41" target="38wWkIn2xL1nKSNl_TgS-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-410" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-41" value="You ask Satan kindly to commit suicide" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-42" value="He asks what&#39;s up and you answer that you&#39;re scared of him and you, after a while, somehow, have a nice conversation with him. He forgets what he wanted to do while you and him play cards together and the world is falling aroung you. In the end all Toilet-Paper is gone, your Friend died on the Toilet but who cares. You now have a new friend. After 5 years you 2 have become so good friends Satan grants you immortality so you won&#39;t die because Satan wouldn&#39;t want that. Happy End... I guess?&lt;br&gt;(Neutral Ending)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="230" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="38wWkIn2xL1nKSNl_TgS-44" target="38wWkIn2xL1nKSNl_TgS-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-44" value="You cry because you are so scared of that huge monster." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-45" value="He tells you, you should commit suicide" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="38wWkIn2xL1nKSNl_TgS-46" target="38wWkIn2xL1nKSNl_TgS-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-46" value="You commit suicide" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-630" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="38wWkIn2xL1nKSNl_TgS-47" target="38wWkIn2xL1nKSNl_TgS-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-47" value="You pull your Uno-Reverse Card" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-49" value="You died and Satan lost time on his Quest to defeat what was taking all the Toilet-Paper.&lt;br&gt;(Bad Ending)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="38wWkIn2xL1nKSNl_TgS-50" value="Satan suddenly drops dead and you&#39;re forever trapped in hell. Well... At least now you can rule hell if you want.&lt;br&gt;(Neutral Ending)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="390" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-3" value="&lt;div&gt;He says: &quot;Yeah, you&#39;re probably right&quot; meaning you have finished your Quest!&lt;br&gt;(Good Ending)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1530" y="1830" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-5" value="He is sceptical and tells you, you should go to another Store and get him new Toilet-Paper that isn&#39;t bloody" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1360" y="1830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-7" value="He gets really angry and makes the ground&amp;nbsp; collapse under you" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-8" target="cVR2qQ0IjA2eTlntJ5I4-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-8" target="cVR2qQ0IjA2eTlntJ5I4-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-8" value="You throw another stone right in his eye" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-9" target="38wWkIn2xL1nKSNl_TgS-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="610" />
+              <mxPoint x="-570" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-9" value="You accept your fate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-14" value="He doesn&#39;t seem to care" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-15" target="cVR2qQ0IjA2eTlntJ5I4-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-15" target="cVR2qQ0IjA2eTlntJ5I4-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-15" value="You throw another stone right in his eye" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-16" target="38wWkIn2xL1nKSNl_TgS-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-360" y="770" />
+              <mxPoint x="-570" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-16" value="You accept your fate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-29" value="He doesn&#39;t seem to care" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-30" target="cVR2qQ0IjA2eTlntJ5I4-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-30" target="cVR2qQ0IjA2eTlntJ5I4-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-30" value="You throw another stone right in his eye" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-31" target="38wWkIn2xL1nKSNl_TgS-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-280" y="930" />
+              <mxPoint x="-570" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-31" value="You accept your fate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-35" value="He doesn&#39;t seem to care but you have found a very hot and very pointy stone" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-36" target="cVR2qQ0IjA2eTlntJ5I4-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-36" target="cVR2qQ0IjA2eTlntJ5I4-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-36" value="Throw that stone into his eye" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-37" target="38wWkIn2xL1nKSNl_TgS-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="1090" />
+              <mxPoint x="-570" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-37" value="You accept your fate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-40" value="While throwing the rock you injured yourself so hard, your hand is now ashes.&lt;br&gt;Satan screamed really, really loud before he dies. But the ground is still collapsing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="1220" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-42" target="cVR2qQ0IjA2eTlntJ5I4-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-42" value="Absorb his powers and get flying" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cVR2qQ0IjA2eTlntJ5I4-43" target="cVR2qQ0IjA2eTlntJ5I4-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-43" value="Jump on him and out of heck" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-44" value="You are too weak to handle his powers, therefore you die in an epic explosion. And all that remains of you is the spatula that you always carry with you.&lt;br&gt;(Bad Ending)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry y="1450" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cVR2qQ0IjA2eTlntJ5I4-49" value="&lt;span style=&quot;white-space: normal&quot;&gt;You somehow manage to perform a sick double backflip while doing that and now you&#39;re so cool that you teleport back in time and to after the store but surprisingly there is no old you, meaning you haven&#39;t caused any paradoxons. Nice!&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="1450" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="q7f_xUBBGHG3aKGePssD-9" value="After 2 hours of pointlessly walking around you find the warehouse of a huge Toilet-Paper Company called Catonelle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="960" y="520" width="120" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
