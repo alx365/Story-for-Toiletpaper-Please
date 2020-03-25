@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T14:27:19.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="ftGaVO_DD3rBaRUP1qx5" version="12.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-25T14:33:40.130Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="Xz0gfKGCdKeusKCmfNs8" version="12.9.2" type="github">
   <diagram id="Qn3-nG2EIfxCC5e99ubx" name="Page-1">
-    <mxGraphModel dx="3785" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3252" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,7 +432,7 @@
         <mxCell id="M6KW342iFe4JDzRaZPrO-110" value="Go to the next Supermarket to look for Toilet-Paper?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1600" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M6KW342iFe4JDzRaZPrO-1" value="You run after him and after a while he trips and dies because of the fall but now the Toilet-Paper is bloody" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="M6KW342iFe4JDzRaZPrO-1" value="You run after him and after a while he trips and dies, because of the fall but now the Toilet-Paper is bloody" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1760" y="730" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ykuvmNVMor7jnegWPp5u-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JG3rJxFggoxqtPLCYrr8-40" target="ykuvmNVMor7jnegWPp5u-31" edge="1">
